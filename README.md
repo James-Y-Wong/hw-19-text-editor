@@ -27,6 +27,16 @@
   Make sure you have all the prerequisites and packages installed. 
   
   - Navigate to the deployed application and type in notes
+
+  [Deployed Heroku Link](https://afternoon-waters-32457.herokuapp.com/)
+
+  Here is a screenshot of the application on first load
+
+  >![Text Editor home load](./client/src/images/text-editor-home.png)
+
+  Here is a screenshot of the application as a standalone
+
+  >![Text Editor standalone](./client/src/images/text-editor-standalone.png)
   
   ## License
   
